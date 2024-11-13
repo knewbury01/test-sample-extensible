@@ -1,0 +1,6 @@
+extensions:
+  - addsTo:
+      pack: knewbury01/pack-publish-test-extensible
+      extensible: "namePred"
+    data:
+      - ["readLine"] 

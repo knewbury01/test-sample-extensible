@@ -1,0 +1,9 @@
+---
+library: true
+warnOnImplicitThis: false
+name: knewbury01/pack-publish-test-extensible-models
+version: 0.0.0
+extensionTargets:
+  knewbury01/pack-publish-test-extensible: "*"
+dataExtensions:
+  - "model.yml"
